@@ -5,7 +5,7 @@
 |:---:|:---:|:---:|:---:|
 |Photo|Photo|Photo|Photo|
 |[Github](https://github.com/Kimseungin0529)|[Github](https://github.com/wjd4204)|[Github](https://github.com/jeoungsung12)|[Github](https://github.com/HahnGyuTak)|
-|[Backend]|[Backend]|[FrontEnd(IOS)](https://github.com/MettingApp/iOS)|[AI](https://github.com/MettingApp/AI)|
+|[Backend]()|[Backend]()|[FrontEnd(IOS)](https://github.com/MettingApp/iOS)|[AI](https://github.com/MettingApp/AI)|
 
 
 <!--
