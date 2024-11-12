@@ -3,7 +3,7 @@
 ## Members
 |Seungjin Kim|Jeonggon Pak|Seongyun Jeong|Gyutak Hahn|
 |:---:|:---:|:---:|:---:|
-|Photo|Photo|Photo|Photo|
+|![Photo](https://avatars.githubusercontent.com/u/54787442?v=4)|![Photo](https://avatars.githubusercontent.com/u/110841041?v=4)|![Photo](https://avatars.githubusercontent.com/u/50621327?v=4)|![Photo](https://avatars.githubusercontent.com/u/50629765?v=4)|
 |[Github](https://github.com/Kimseungin0529)|[Github](https://github.com/wjd4204)|[Github](https://github.com/jeoungsung12)|[Github](https://github.com/HahnGyuTak)|
 |[Backend]()|[Backend]()|[FrontEnd(IOS)](https://github.com/MettingApp/iOS)|[AI](https://github.com/MettingApp/AI)|
 
