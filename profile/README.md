@@ -7,6 +7,9 @@
 |[Github](https://github.com/Kimseungin0529)|[Github](https://github.com/wjd4204)|[Github](https://github.com/jeoungsung12)|[Github](https://github.com/HahnGyuTak)|
 |[Backend]()|[Backend]()|[FrontEnd(IOS)](https://github.com/MettingApp/iOS)|[AI](https://github.com/MettingApp/AI)|
 
+## Presentation
+[Mote.pdf](https://github.com/user-attachments/files/19148912/Mote.pdf)
+
 
 <!--
 
